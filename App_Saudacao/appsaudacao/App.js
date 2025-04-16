@@ -65,6 +65,8 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
+    borderBottomRightRadius: 35,
+    borderBottomLeftRadius: 35,
   },
   headerText: {
     fontSize: 22,
